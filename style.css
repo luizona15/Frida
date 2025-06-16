@@ -15,7 +15,7 @@ h2{
     color: rgb(0, 85, 11);
     text-align: center;
     font-family: "Kapakana";
-    font-size: 50px;
+    font-size: 50px;  font-family: "Dancing Script";
 }
 
 p{
@@ -45,4 +45,18 @@ li{
 
 a{
     color: rgb(1, 66, 9);
+}
+
+button{
+    background-color: #298;
+    font-family: "Dancing Script";
+    font-size: 30px;
+    height:100px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+div{
+    text-align: center;
 }
